@@ -101,7 +101,7 @@ typedef struct {
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<votre-username>/mini-rtos-cortexm0.git
+   git clone https://github.com/falylova/mini-rtos-cortexm0.git
    ```
 2. Ouvrir `mini_rtos.uvprojx` dans Keil MDK
 3. Compiler : `Project → Build Target` (F7)
