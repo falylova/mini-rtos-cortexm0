@@ -107,8 +107,8 @@ typedef struct {
 3. Compiler : `Project → Build Target` (F7)
 4. Lancer la simulation : `Debug → Start/Stop Debug Session` (Ctrl+F5)
 5. Dans `View → Watch Windows → Watch 1`, ajouter `active_task_id`, `c1`, `c2`, `c3`
-6. Cliquer `Run` (F5) et observer les variables changer en alternance
-
+6. Cliquer `Run` (F5) — appuyer plusieurs fois si nécessaire jusqu'à
+   ce que la simulation démarre et que les variables commencent à changer
 ---
 
 ## Licence
